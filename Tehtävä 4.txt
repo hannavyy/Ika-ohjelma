@@ -1,0 +1,6 @@
+// jos ikä on 100, tulosta 3-rivinen onnentoivotus. 
+if (ika == 100) {
+  System.out.println("Onnea");
+  System.out.println("100-vuotis");
+  System.out.println("juhlapäivänä");
+}
