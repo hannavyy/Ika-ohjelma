@@ -1,0 +1,4 @@
+// Laajenna tehtävää niin, että aikuisille ilmoitetaan tasavuosikymmenistä onnentoivotus.
+  if (ika >= 20 && ika % 10 == 0) {
+    System.out.println("Onnea tasavuosikymmenestä");
+}
