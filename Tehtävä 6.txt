@@ -1,0 +1,5 @@
+// Toivota 65-vuotiaille hyviä eläkepäiviä.
+
+if (ika == 65) {
+  System.out.println("Hyviä eläkepäiviä");
+}
