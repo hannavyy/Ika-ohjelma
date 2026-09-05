@@ -1,0 +1,6 @@
+// Laajenna ohjelmaa niin, että se kertoo 18-vuotiaalle, että hän on juuri tullut täysi-ikäiseksi ja saa ajaa autoa.
+  if (ika >= 18) {
+    System.out.println("Olet juuri tullut täysi-ikäiseksi ja saat ajaa autoa");
+  }
+
+  
